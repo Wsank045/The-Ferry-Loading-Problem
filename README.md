@@ -41,7 +41,7 @@ starboard side. If several arrangements of the cars meet the criteria above, any
 1500\
 700\
 800\
-0\
+0
 
 ## Sample Output
 6\
@@ -50,4 +50,4 @@ starboard\
 starboard\
 starboard\
 port\
-port\
+port
